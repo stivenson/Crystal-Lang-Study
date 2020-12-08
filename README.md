@@ -7,7 +7,11 @@ Exercises for personal study of Crystal-Lang, frameworks and related topics.
 
 ## 🌄 Getting Started
 
-- Install [Crystal](https://crystal-lang.org/install/) (0.35.1, version used) LLVM: 8.0.0
+1. Install [Crystal](https://crystal-lang.org/install/) (0.35.1, version used) LLVM: 8.0.0
+2. After the clone this repo, enter in the exercise of your interest and run it. Ex: `cd hello-world` and `crystal hello_world.cr`
+3. _(optional)_ To create and run an executable binary, ex:
+`crystal build hello_world.cr` and `./hello-world`
+4. _(optional)_ To create and run an executable binary with optimizations enabled, ex: `crystal build hello_world.cr --release` and `./hello-world`
 
 ## 🌅 Description of folders
 
