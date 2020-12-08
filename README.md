@@ -1,5 +1,6 @@
 # Crystal-Lang Study
 
+[![GitHub issues](https://img.shields.io/github/issues/stivenson/Crystal-Lang-Study)](https://github.com/stivenson/Crystal-Lang-Study/issues) [![GitHub forks](https://img.shields.io/github/forks/stivenson/Crystal-Lang-Study)](https://github.com/stivenson/Crystal-Lang-Study/network) [![GitHub stars](https://img.shields.io/github/stars/stivenson/Crystal-Lang-Study)](https://github.com/stivenson/Crystal-Lang-Study/stargazers) [![GitHub license](https://img.shields.io/github/license/stivenson/Crystal-Lang-Study)](https://github.com/stivenson/Crystal-Lang-Study) [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fstivenson%2FCrystal-Lang-Study)
 
 Exercises for personal study of Crystal-Lang, frameworks and related topics.
 
