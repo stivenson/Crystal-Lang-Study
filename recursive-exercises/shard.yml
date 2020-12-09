@@ -1,0 +1,22 @@
+name: recursive-exercises
+version: 0.1.0
+
+authors:
+  - Stivenson Rincon <stivenson.rpm@gmail.com>
+
+# description: |
+#   Short description of recursive-exercises
+
+# dependencies:
+  # big:
+  #  github: big/big_int.cr 
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT

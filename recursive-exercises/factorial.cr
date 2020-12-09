@@ -1,19 +1,21 @@
-factorial = uninitialized Int64 -> Int64
+require "big/big_int"
 
-factorial = ->(n: Int64) {
+factorial = uninitialized BigInt -> BigInt
+
+factorial = ->(n: BigInt) {
     if n.zero?
-        1.to_i64
+        BigInt.new(1)
     else
         n * factorial.call(n - 1)
     end
 }
 
-puts "Ingrese un número del 1 al 20: "
+puts "Ingrese un número: "
 num = gets.try(&.to_i) || 0
 
 begin
-    result = factorial.call(num.to_i64)
-    puts "Factorial de #{num}: #{result}"
+    result = factorial.call(BigInt.new(num))
+    puts "Factorial de #{num}: #{result.to_big_i}"
 rescue OverflowError
-    puts "Número No soportado"
+    puts "Número no soportado"
 end
