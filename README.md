@@ -17,6 +17,7 @@ Exercises for personal study of Crystal-Lang, frameworks and related topics.
 
 - 🚲  __hello_world/hello_world.cr:__ Hello world
 - 🚴  __hello_world/hello_world_class.cr:__ Hello world with classes
+- 🚴  __recursive_exercises/factorial.cr:__ Get factorial of number
 - _(in process others exercises...)_
 
 ## 🌃 Learning
